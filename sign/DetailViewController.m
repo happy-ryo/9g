@@ -236,6 +236,9 @@ BOOL saveViewFlgT = NO;
     _textView.selectedRange = range;
 }
 
+- (IBAction)changeKana{
+
+}
 
 - (IBAction)addk {
     _textView.scrollEnabled = NO;

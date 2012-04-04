@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		89006214152CB6F6003E0E99 /* kanaBtn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 89006212152CB6F6003E0E99 /* kanaBtn@2x.png */; };
+		89006215152CB6F6003E0E99 /* kanaBtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 89006213152CB6F6003E0E99 /* kanaBtn.png */; };
 		891CEAC814A61731003FDDEF /* KKnon_s1.png in Resources */ = {isa = PBXBuildFile; fileRef = 891CEAC714A61731003FDDEF /* KKnon_s1.png */; };
 		891CEACA14A617F1003FDDEF /* KKnon1_s1.png in Resources */ = {isa = PBXBuildFile; fileRef = 891CEAC914A617F1003FDDEF /* KKnon1_s1.png */; };
 		891CEACC14A61929003FDDEF /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 891CEACB14A61929003FDDEF /* Default@2x.png */; };
@@ -66,6 +68,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		89006212152CB6F6003E0E99 /* kanaBtn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "kanaBtn@2x.png"; sourceTree = "<group>"; };
+		89006213152CB6F6003E0E99 /* kanaBtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kanaBtn.png; sourceTree = "<group>"; };
 		891CEAC714A61731003FDDEF /* KKnon_s1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KKnon_s1.png; sourceTree = "<group>"; };
 		891CEAC914A617F1003FDDEF /* KKnon1_s1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = KKnon1_s1.png; sourceTree = "<group>"; };
 		891CEACB14A61929003FDDEF /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
@@ -246,6 +250,8 @@
 		89E3027A14A52475008BA5D3 /* img */ = {
 			isa = PBXGroup;
 			children = (
+				89006212152CB6F6003E0E99 /* kanaBtn@2x.png */,
+				89006213152CB6F6003E0E99 /* kanaBtn.png */,
 				89A6D5AA1514F58B0044D093 /* backBtn.png */,
 				89A6D5AB1514F58B0044D093 /* backBtn@2x.png */,
 				89A6D5AC1514F58B0044D093 /* copy.png */,
@@ -377,6 +383,8 @@
 				89F8227C1526D2BD00EE7453 /* DetailViewController.xib in Resources */,
 				89F8227D1526D2BD00EE7453 /* Editor.xib in Resources */,
 				89F8227E1526D2BD00EE7453 /* MasterViewController.xib in Resources */,
+				89006214152CB6F6003E0E99 /* kanaBtn@2x.png in Resources */,
+				89006215152CB6F6003E0E99 /* kanaBtn.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
